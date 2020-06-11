@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    align-items: center;
+    width: 75vw;
+    height:auto;
+}
+.cardGraph{
+    margin-top:2%;
+    margin-bottom:5%;
+    justify-content:center;
+    padding:15px;
+    border-top-left-radius: 15px !important;
+    border-top-right-radius: 15px !important;
+}

@@ -1,0 +1,8 @@
+.native_select{
+    border-radius: 20px;
+    padding:10px;
+    border:2px solid rgba(33, 203, 243, .3) ;
+}
+.native_select:hover{
+    box-shadow: 18px 2px 48px -8px rgba(0,0,0,0.62);    
+}
