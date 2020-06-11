@@ -1,3 +1,10 @@
+# Covid-19 Statistics
+This web-page displays real time covid-19 data globally and also for individual country. You can also visualize the data in graphs.
+Built using reactjs, chart.js, Material-UI.
+
+API used - https://covid19.mathdro.id/api
+
+![Demo](./src/screenshot.gif)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
